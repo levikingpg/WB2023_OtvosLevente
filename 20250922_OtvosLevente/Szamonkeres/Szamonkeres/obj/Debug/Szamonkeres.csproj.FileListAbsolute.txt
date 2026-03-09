@@ -1,0 +1,9 @@
+C:\Users\OtvosLevente\Downloads\20250922_OtvosLevente\Szamonkeres\Szamonkeres\obj\Debug\Szamonkeres.csproj.AssemblyReference.cache
+C:\Users\OtvosLevente\Downloads\20250922_OtvosLevente\Szamonkeres\Szamonkeres\obj\Debug\Szamonkeres.csproj.CoreCompileInputs.cache
+H:\AAF\20250922_OtvosLevente\Szamonkeres\Szamonkeres\obj\Debug\Szamonkeres.csproj.AssemblyReference.cache
+H:\AAF\20250922_OtvosLevente\Szamonkeres\Szamonkeres\obj\Debug\Szamonkeres.csproj.CoreCompileInputs.cache
+H:\AAF\20250922_OtvosLevente\Szamonkeres\Szamonkeres\bin\Debug\Szamonkeres.exe.config
+H:\AAF\20250922_OtvosLevente\Szamonkeres\Szamonkeres\bin\Debug\Szamonkeres.exe
+H:\AAF\20250922_OtvosLevente\Szamonkeres\Szamonkeres\bin\Debug\Szamonkeres.pdb
+H:\AAF\20250922_OtvosLevente\Szamonkeres\Szamonkeres\obj\Debug\Szamonkeres.exe
+H:\AAF\20250922_OtvosLevente\Szamonkeres\Szamonkeres\obj\Debug\Szamonkeres.pdb

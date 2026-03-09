@@ -1,0 +1,8 @@
+C:\Users\OtvosLevente\Downloads\20250922_OtvosLevente\Ciklusok\Ciklusok\bin\Debug\Ciklusok.exe.config
+C:\Users\OtvosLevente\Downloads\20250922_OtvosLevente\Ciklusok\Ciklusok\bin\Debug\Ciklusok.exe
+C:\Users\OtvosLevente\Downloads\20250922_OtvosLevente\Ciklusok\Ciklusok\bin\Debug\Ciklusok.pdb
+C:\Users\OtvosLevente\Downloads\20250922_OtvosLevente\Ciklusok\Ciklusok\obj\Debug\Ciklusok.csproj.AssemblyReference.cache
+C:\Users\OtvosLevente\Downloads\20250922_OtvosLevente\Ciklusok\Ciklusok\obj\Debug\Ciklusok.csproj.CoreCompileInputs.cache
+C:\Users\OtvosLevente\Downloads\20250922_OtvosLevente\Ciklusok\Ciklusok\obj\Debug\Ciklusok.exe
+C:\Users\OtvosLevente\Downloads\20250922_OtvosLevente\Ciklusok\Ciklusok\obj\Debug\Ciklusok.pdb
+C:\Users\OtvosLevente\Downloads\20250922_OtvosLevente\Ciklusok\Ciklusok\obj\Debug\Ciklusok.exe.config

@@ -1,0 +1,8 @@
+C:\Users\OtvosLevente\Downloads\20250915_OtvosLevente\alapokValtozokMegminden\alapokValtozokMegminden\bin\Debug\alapokValtozokMegminden.exe.config
+C:\Users\OtvosLevente\Downloads\20250915_OtvosLevente\alapokValtozokMegminden\alapokValtozokMegminden\bin\Debug\alapokValtozokMegminden.exe
+C:\Users\OtvosLevente\Downloads\20250915_OtvosLevente\alapokValtozokMegminden\alapokValtozokMegminden\bin\Debug\alapokValtozokMegminden.pdb
+C:\Users\OtvosLevente\Downloads\20250915_OtvosLevente\alapokValtozokMegminden\alapokValtozokMegminden\obj\Debug\alapokValtozokMegminden.csproj.AssemblyReference.cache
+C:\Users\OtvosLevente\Downloads\20250915_OtvosLevente\alapokValtozokMegminden\alapokValtozokMegminden\obj\Debug\alapokValtozokMegminden.csproj.CoreCompileInputs.cache
+C:\Users\OtvosLevente\Downloads\20250915_OtvosLevente\alapokValtozokMegminden\alapokValtozokMegminden\obj\Debug\alapokValtozokMegminden.exe
+C:\Users\OtvosLevente\Downloads\20250915_OtvosLevente\alapokValtozokMegminden\alapokValtozokMegminden\obj\Debug\alapokValtozokMegminden.pdb
+C:\Users\OtvosLevente\Downloads\20250915_OtvosLevente\alapokValtozokMegminden\alapokValtozokMegminden\obj\Debug\alapokValtozokMegminden.exe.config

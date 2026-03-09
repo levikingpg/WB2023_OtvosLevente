@@ -1,0 +1,8 @@
+C:\Users\OtvosLevente\Downloads\20250929_OtvosLevente\filekezeles\obj\Debug\filekezeles.csproj.AssemblyReference.cache
+C:\Users\OtvosLevente\Downloads\20250929_OtvosLevente\filekezeles\obj\Debug\filekezeles.csproj.CoreCompileInputs.cache
+C:\Users\OtvosLevente\Downloads\20250929_OtvosLevente\filekezeles\bin\Debug\filekezeles.exe.config
+C:\Users\OtvosLevente\Downloads\20250929_OtvosLevente\filekezeles\bin\Debug\filekezeles.exe
+C:\Users\OtvosLevente\Downloads\20250929_OtvosLevente\filekezeles\bin\Debug\filekezeles.pdb
+C:\Users\OtvosLevente\Downloads\20250929_OtvosLevente\filekezeles\obj\Debug\filekezeles.exe
+C:\Users\OtvosLevente\Downloads\20250929_OtvosLevente\filekezeles\obj\Debug\filekezeles.pdb
+C:\Users\OtvosLevente\Downloads\20250929_OtvosLevente\filekezeles\obj\Debug\filekezeles.exe.config

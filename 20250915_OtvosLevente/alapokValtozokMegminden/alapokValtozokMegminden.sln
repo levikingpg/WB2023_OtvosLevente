@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alapokValtozokMegminden", "alapokValtozokMegminden\alapokValtozokMegminden.csproj", "{F2CF4228-59A9-4170-998C-AF590EF86869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CF4228-59A9-4170-998C-AF590EF86869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CF4228-59A9-4170-998C-AF590EF86869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CF4228-59A9-4170-998C-AF590EF86869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CF4228-59A9-4170-998C-AF590EF86869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA0AC60-D3BF-4F3B-A452-DCC55366817B}
+	EndGlobalSection
+EndGlobal
