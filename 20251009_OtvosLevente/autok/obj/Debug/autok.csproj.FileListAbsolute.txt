@@ -1,0 +1,8 @@
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\autok\bin\Debug\autok.exe.config
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\autok\bin\Debug\autok.exe
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\autok\bin\Debug\autok.pdb
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\autok\obj\Debug\autok.csproj.AssemblyReference.cache
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\autok\obj\Debug\autok.csproj.CoreCompileInputs.cache
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\autok\obj\Debug\autok.exe
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\autok\obj\Debug\autok.pdb
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\autok\obj\Debug\autok.exe.config

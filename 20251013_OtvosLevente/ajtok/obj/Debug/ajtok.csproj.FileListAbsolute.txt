@@ -1,0 +1,8 @@
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\ajtok\bin\Debug\ajtok.exe.config
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\ajtok\bin\Debug\ajtok.exe
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\ajtok\bin\Debug\ajtok.pdb
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\ajtok\obj\Debug\ajtok.csproj.AssemblyReference.cache
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\ajtok\obj\Debug\ajtok.csproj.CoreCompileInputs.cache
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\ajtok\obj\Debug\ajtok.exe
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\ajtok\obj\Debug\ajtok.pdb
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\ajtok\obj\Debug\ajtok.exe.config

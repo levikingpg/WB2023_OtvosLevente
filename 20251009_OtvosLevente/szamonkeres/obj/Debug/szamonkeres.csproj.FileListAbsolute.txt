@@ -1,0 +1,8 @@
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\szamonkeres\obj\Debug\szamonkeres.csproj.AssemblyReference.cache
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\szamonkeres\obj\Debug\szamonkeres.csproj.CoreCompileInputs.cache
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\szamonkeres\bin\Debug\szamonkeres.exe.config
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\szamonkeres\bin\Debug\szamonkeres.exe
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\szamonkeres\bin\Debug\szamonkeres.pdb
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\szamonkeres\obj\Debug\szamonkeres.exe
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\szamonkeres\obj\Debug\szamonkeres.pdb
+C:\Users\OtvosLevente\Downloads\20251009_OtvosLevente\szamonkeres\obj\Debug\szamonkeres.exe.config

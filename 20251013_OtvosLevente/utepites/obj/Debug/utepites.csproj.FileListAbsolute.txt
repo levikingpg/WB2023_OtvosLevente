@@ -1,0 +1,8 @@
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\utepites\bin\Debug\utepites.exe.config
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\utepites\bin\Debug\utepites.exe
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\utepites\bin\Debug\utepites.pdb
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\utepites\obj\Debug\utepites.csproj.AssemblyReference.cache
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\utepites\obj\Debug\utepites.csproj.CoreCompileInputs.cache
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\utepites\obj\Debug\utepites.exe
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\utepites\obj\Debug\utepites.pdb
+C:\Users\OtvosLevente\Downloads\20251013_OtvosLevente\utepites\obj\Debug\utepites.exe.config

@@ -1,0 +1,8 @@
+C:\Users\OtvosLevente\Desktop\20251113_OtvosLevente\ado\bin\Debug\ado.exe.config
+C:\Users\OtvosLevente\Desktop\20251113_OtvosLevente\ado\bin\Debug\ado.exe
+C:\Users\OtvosLevente\Desktop\20251113_OtvosLevente\ado\bin\Debug\ado.pdb
+C:\Users\OtvosLevente\Desktop\20251113_OtvosLevente\ado\obj\Debug\ado.csproj.AssemblyReference.cache
+C:\Users\OtvosLevente\Desktop\20251113_OtvosLevente\ado\obj\Debug\ado.csproj.CoreCompileInputs.cache
+C:\Users\OtvosLevente\Desktop\20251113_OtvosLevente\ado\obj\Debug\ado.exe
+C:\Users\OtvosLevente\Desktop\20251113_OtvosLevente\ado\obj\Debug\ado.pdb
+C:\Users\OtvosLevente\Desktop\20251113_OtvosLevente\ado\obj\Debug\ado.exe.config
