@@ -1,0 +1,8 @@
+C:\Users\OtvosLevente\Desktop\20251117_OtvosLevente\radio\radio\bin\Debug\radio.exe.config
+C:\Users\OtvosLevente\Desktop\20251117_OtvosLevente\radio\radio\bin\Debug\radio.exe
+C:\Users\OtvosLevente\Desktop\20251117_OtvosLevente\radio\radio\bin\Debug\radio.pdb
+C:\Users\OtvosLevente\Desktop\20251117_OtvosLevente\radio\radio\obj\Debug\radio.csproj.AssemblyReference.cache
+C:\Users\OtvosLevente\Desktop\20251117_OtvosLevente\radio\radio\obj\Debug\radio.csproj.CoreCompileInputs.cache
+C:\Users\OtvosLevente\Desktop\20251117_OtvosLevente\radio\radio\obj\Debug\radio.exe
+C:\Users\OtvosLevente\Desktop\20251117_OtvosLevente\radio\radio\obj\Debug\radio.pdb
+C:\Users\OtvosLevente\Desktop\20251117_OtvosLevente\radio\radio\obj\Debug\radio.exe.config

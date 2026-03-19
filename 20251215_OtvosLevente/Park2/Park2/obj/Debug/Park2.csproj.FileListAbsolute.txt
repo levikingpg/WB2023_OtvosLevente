@@ -1,0 +1,8 @@
+C:\Users\OtvosLevente\Desktop\20251215_OtvosLevente\Park2\Park2\bin\Debug\Park2.exe.config
+C:\Users\OtvosLevente\Desktop\20251215_OtvosLevente\Park2\Park2\bin\Debug\Park2.exe
+C:\Users\OtvosLevente\Desktop\20251215_OtvosLevente\Park2\Park2\bin\Debug\Park2.pdb
+C:\Users\OtvosLevente\Desktop\20251215_OtvosLevente\Park2\Park2\obj\Debug\Park2.csproj.AssemblyReference.cache
+C:\Users\OtvosLevente\Desktop\20251215_OtvosLevente\Park2\Park2\obj\Debug\Park2.csproj.CoreCompileInputs.cache
+C:\Users\OtvosLevente\Desktop\20251215_OtvosLevente\Park2\Park2\obj\Debug\Park2.exe
+C:\Users\OtvosLevente\Desktop\20251215_OtvosLevente\Park2\Park2\obj\Debug\Park2.pdb
+C:\Users\OtvosLevente\Desktop\20251215_OtvosLevente\Park2\Park2\obj\Debug\Park2.exe.config

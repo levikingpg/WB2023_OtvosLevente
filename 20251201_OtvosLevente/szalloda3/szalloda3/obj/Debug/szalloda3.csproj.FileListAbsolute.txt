@@ -1,0 +1,8 @@
+C:\Users\OtvosLevente\Desktop\20251201_OtvosLevente\szalloda3\szalloda3\bin\Debug\szalloda3.exe.config
+C:\Users\OtvosLevente\Desktop\20251201_OtvosLevente\szalloda3\szalloda3\bin\Debug\szalloda3.exe
+C:\Users\OtvosLevente\Desktop\20251201_OtvosLevente\szalloda3\szalloda3\bin\Debug\szalloda3.pdb
+C:\Users\OtvosLevente\Desktop\20251201_OtvosLevente\szalloda3\szalloda3\obj\Debug\szalloda3.csproj.AssemblyReference.cache
+C:\Users\OtvosLevente\Desktop\20251201_OtvosLevente\szalloda3\szalloda3\obj\Debug\szalloda3.csproj.CoreCompileInputs.cache
+C:\Users\OtvosLevente\Desktop\20251201_OtvosLevente\szalloda3\szalloda3\obj\Debug\szalloda3.exe
+C:\Users\OtvosLevente\Desktop\20251201_OtvosLevente\szalloda3\szalloda3\obj\Debug\szalloda3.pdb
+C:\Users\OtvosLevente\Desktop\20251201_OtvosLevente\szalloda3\szalloda3\obj\Debug\szalloda3.exe.config
