@@ -1,0 +1,7 @@
+H:\AAF\20260302_OtvosLevente\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+H:\AAF\20260302_OtvosLevente\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+H:\AAF\20260302_OtvosLevente\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+H:\AAF\20260302_OtvosLevente\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+H:\AAF\20260302_OtvosLevente\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\AAF\20260302_OtvosLevente\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+H:\AAF\20260302_OtvosLevente\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

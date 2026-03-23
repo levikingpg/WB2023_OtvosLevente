@@ -1,0 +1,8 @@
+H:\AAF\20260316_OtvosLevente\EletJatek2\EletJatek2\bin\Debug\EletJatek2.exe.config
+H:\AAF\20260316_OtvosLevente\EletJatek2\EletJatek2\bin\Debug\EletJatek2.exe
+H:\AAF\20260316_OtvosLevente\EletJatek2\EletJatek2\bin\Debug\EletJatek2.pdb
+H:\AAF\20260316_OtvosLevente\EletJatek2\EletJatek2\obj\Debug\EletJatek2.csproj.AssemblyReference.cache
+H:\AAF\20260316_OtvosLevente\EletJatek2\EletJatek2\obj\Debug\EletJatek2.csproj.CoreCompileInputs.cache
+H:\AAF\20260316_OtvosLevente\EletJatek2\EletJatek2\obj\Debug\EletJatek2.exe
+H:\AAF\20260316_OtvosLevente\EletJatek2\EletJatek2\obj\Debug\EletJatek2.pdb
+H:\AAF\20260316_OtvosLevente\EletJatek2\EletJatek2\obj\Debug\EletJatek2.exe.config

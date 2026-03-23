@@ -1,0 +1,15 @@
+H:\AAF\20260302_OtvosLevente\randomszam\randomszam\bin\Debug\randomszam.exe.config
+H:\AAF\20260302_OtvosLevente\randomszam\randomszam\bin\Debug\randomszam.exe
+H:\AAF\20260302_OtvosLevente\randomszam\randomszam\bin\Debug\randomszam.pdb
+H:\AAF\20260302_OtvosLevente\randomszam\randomszam\obj\Debug\randomszam.csproj.AssemblyReference.cache
+H:\AAF\20260302_OtvosLevente\randomszam\randomszam\obj\Debug\randomszam.csproj.CoreCompileInputs.cache
+H:\AAF\20260302_OtvosLevente\randomszam\randomszam\obj\Debug\randomszam.exe
+H:\AAF\20260302_OtvosLevente\randomszam\randomszam\obj\Debug\randomszam.pdb
+H:\AAF\20260309_OtvosLevente\randomszam\randomszam\bin\Debug\randomszam.exe.config
+H:\AAF\20260309_OtvosLevente\randomszam\randomszam\bin\Debug\randomszam.exe
+H:\AAF\20260309_OtvosLevente\randomszam\randomszam\bin\Debug\randomszam.pdb
+H:\AAF\20260309_OtvosLevente\randomszam\randomszam\obj\Debug\randomszam.csproj.AssemblyReference.cache
+H:\AAF\20260309_OtvosLevente\randomszam\randomszam\obj\Debug\randomszam.exe.config
+H:\AAF\20260309_OtvosLevente\randomszam\randomszam\obj\Debug\randomszam.csproj.CoreCompileInputs.cache
+H:\AAF\20260309_OtvosLevente\randomszam\randomszam\obj\Debug\randomszam.exe
+H:\AAF\20260309_OtvosLevente\randomszam\randomszam\obj\Debug\randomszam.pdb
